@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+}
+.link{
+    background: rgb(214, 191, 236);
+    width: 85px;
+    border-radius: 10px;
+    float: right;
+}
+.heading:hover{
+    font-size: large;
+}
